@@ -3,7 +3,6 @@ name: scippbinder
 channels:
   - conda-forge
   - scipp
-  - mantid
 
 dependencies:
   - matplotlib
@@ -11,4 +10,3 @@ dependencies:
   - ess
   - pythreejs
   - scipy
-  - mantid
