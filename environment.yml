@@ -1,0 +1,14 @@
+name: scippbinder
+
+channels:
+  - conda-forge
+  - scipp
+  - mantid
+
+dependencies:
+  - matplotlib
+  - ipympl
+  - ess
+  - pythreejs
+  - scipy
+  - mantid
