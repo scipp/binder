@@ -5,9 +5,9 @@ channels:
   - scipp
 
 dependencies:
-  - python=3.8
+  - python=3.9
   - matplotlib
   - ipympl
-  - ess=0.6
+  - ess
   - pythreejs
   - scipy
